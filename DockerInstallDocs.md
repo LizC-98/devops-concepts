@@ -23,7 +23,7 @@ Run it and it should work! (Also make sure when you run the app, go to general >
 (Go to settings) > go to update and security > go to recovery settings > advanced tab and select restart > select f10 to open bios settings and go to system config)
 
 Credits: 
-https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968
-Docker on HP: https://thewebspark.com/2019/04/02/how-to-enable-virtualization-in-bios-of-windows-10-home-hp-systems-solved/amp/
-WSL & Docker: https://youtu.be/5RQbdMn04Oc
+- https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968
+- Docker on HP: https://thewebspark.com/2019/04/02/how-to-enable-virtualization-in-bios-of-windows-10-home-hp-systems-solved/amp/
+- WSL & Docker: https://youtu.be/5RQbdMn04Oc
 
